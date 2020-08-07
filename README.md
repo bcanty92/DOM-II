@@ -24,7 +24,7 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 * [ ] Run `npm start` to compile your project and launch a development server.
 * [ ] Navigate Chrome to the URL indicated in the output of the `npm start` command.
 
-### Task 2a: Create Unique Event Listeners
+### Task 2 less-watch-compiler less css index.lessa: Create Unique Event Listeners
 
 * [ ] Using your [index.js file](js/index.js), create 10 [unique event listeners](https://developer.mozilla.org/en-US/docs/Web/Events). using your creativity to make the Fun Bus site more interactive.  Here are some unique events you could try to use:
 * [ ] `mouseover`
